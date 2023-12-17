@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-namerapp-dev-125511-authRole",
+      "UnauthRoleArn": "arn:aws:iam::293608022836:role/amplify-namerapp-dev-125511-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::293608022836:role/amplify-namerapp-dev-125511-authRole",
+      "Region": "eu-west-3",
+      "DeploymentBucketName": "amplify-namerapp-dev-125511-deployment",
+      "UnauthRoleName": "amplify-namerapp-dev-125511-unauthRole",
+      "StackName": "amplify-namerapp-dev-125511",
+      "StackId": "arn:aws:cloudformation:eu-west-3:293608022836:stack/amplify-namerapp-dev-125511/84cef2b0-9cdb-11ee-b026-0ad44d85bc64",
+      "AmplifyAppId": "dvla9sikksk6z"
+    }
+  }
+}
